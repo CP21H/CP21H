@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cristhian Prado
+# I'm Cristhian 👋
 
-![Cristhian's GitHub stats](https://github-readme-stats-cp21hs-projects.vercel.app/api?username=cp21h&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats-cp21hs-projects.vercel.app/api/top-langs/?username=cp21h&theme=tokyonight&layout=compact)
+<img align="left" width="48%" src="https://github-readme-stats-cp21hs-projects.vercel.app/api?username=cp21h&theme=tokyonight&show_icons=true"/>
+<img align="left" width="36.5%" src="https://github-readme-stats-cp21hs-projects.vercel.app/api/top-langs/?username=cp21h&theme=tokyonight&layout=compact"/>
