@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Who am I?
-Aspiring Software Engineer | React • Python • C/C++ <br>
+Aspiring Software Engineer | React • Python • C++ <br>
 Master's Student at the University of South Florida <br>
 Florida State University alum
 
