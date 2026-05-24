@@ -2,7 +2,7 @@
 
 ## Who am I?
 Software Engineer Intern <br>
-React • Python • C/C++ <br>
+TypeScript • Python • C/C++ <br>
 Master's Student at the University of South Florida <br>
 
 ## Stacks
